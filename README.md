@@ -12,7 +12,8 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir alışveriş
   - Sadece tamamlananlar
   - Sadece tamamlanmayanlar
 - 🧹 Tümünü silme
-- 💾 **LocalStorage entegrasyonu** – listeyi tarayıcıda saklar
+- 💾 **LocalStorage entegrasyonu** – listeyi tarayıcıda 
+saklar
 - 📱 Responsive tasarım – mobil uyumlu
 
 ## 🛠️ Kullanılan Teknolojiler
@@ -22,3 +23,6 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir alışveriş
 - **JavaScript** – Dinamik liste yönetimi ve localStorage kontrolü
 
 - 📷 Ekran Görüntüsü
+- ![shopping-list](https://github.com/user-attachments/assets/cd63ca27-3421-4bdf-b38a-3adfc6dbbd9e)
+
+- https://mtdgn34.github.io/shopping-list/
