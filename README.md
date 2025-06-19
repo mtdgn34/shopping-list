@@ -20,3 +20,5 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir alışveriş
 - **HTML5** – Yapısal içerik
 - **CSS3** – Tasarım ve stil
 - **JavaScript** – Dinamik liste yönetimi ve localStorage kontrolü
+
+- 📷 Ekran Görüntüsü
